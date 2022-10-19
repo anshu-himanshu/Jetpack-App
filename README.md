@@ -1,3 +1,3 @@
 # Jetpack-App
-this repo is just for privacy and terms for use ..
+this repo is just for privacy and terms of use ..
 -- real repo is private 
